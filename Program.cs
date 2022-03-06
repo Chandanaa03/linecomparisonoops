@@ -10,11 +10,11 @@ namespace linecomparisonoops
             Console.WriteLine("Welcome to Line comparison");
 
 
-            linelength obj = new linelength();
-            obj.lengthofline();
+            //linelength obj = new linelength();
+            //obj.lengthofline();
 
-            //lineequity obj = new lineequity();
-            //obj.line_equity();
+            lineequity obj = new lineequity();
+            obj.line_equity();
 
             //equitycomparison obj = new equitycomparison();
             //obj.comparingline();
