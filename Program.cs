@@ -13,11 +13,11 @@ namespace linecomparisonoops
             //linelength obj = new linelength();
             //obj.lengthofline();
 
-            lineequity obj = new lineequity();
-            obj.line_equity();
+            //lineequity obj = new lineequity();
+            //obj.line_equity();
 
-            //equitycomparison obj = new equitycomparison();
-            //obj.comparingline();
+            equitycomparison obj = new equitycomparison();
+            obj.comparingline();
         }
 
     }
